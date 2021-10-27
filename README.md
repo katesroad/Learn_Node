@@ -1,2 +1,3 @@
-# Learn_Node
-Learning notes when using https://nodejs.dev/learn
+# My Nodejs Lego
+
+- Learn_Node: https://nodejs.dev/learn
